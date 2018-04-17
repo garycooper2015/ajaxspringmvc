@@ -9,7 +9,7 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="keywords" content="jquery,ajax,json,append,maven,jetty,springmvc">
+<meta name="keywords" content="jquery,ajax,json,springmvc,append,maven,jetty">
 
 <title></title>
 <style>
